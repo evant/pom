@@ -24,6 +24,8 @@ dependencies {
 pluginBundle {
     description = 'extends maven-publish with simple pom builder'
     tags = ['java', 'maven', 'pom']
+    website = 'https://github.com/evant/pom'
+    vcsUrl = 'https://github.com/evant/pom'
 
     plugins {
         pomPlugin {
